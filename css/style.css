@@ -15,8 +15,9 @@ p
 { padding: 0 0 10px 0;
   line-height: 1.7em;}
   
-img
-{ border: 0;}
+img {
+    border: 0;
+}
 
 h1, h2, h3, h4, h5, h6 
 { font: bold 175% arial, sans-serif;
@@ -296,3 +297,7 @@ text-shadow: 1px 1px #0056AE;}
 
 #footer a:hover
 { text-decoration: none;}
+
+#oiseau {
+    width: 100%;
+}
